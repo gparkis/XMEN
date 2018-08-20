@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2003
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "XMEN", "XMEN\XMEN.csproj", "{44B92668-5BD1-474D-9287-B65B91628922}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{44B92668-5BD1-474D-9287-B65B91628922}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{44B92668-5BD1-474D-9287-B65B91628922}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{44B92668-5BD1-474D-9287-B65B91628922}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{44B92668-5BD1-474D-9287-B65B91628922}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E9337E8E-03A2-49E6-91F4-BAA49D5DE35E}
+	EndGlobalSection
+EndGlobal
